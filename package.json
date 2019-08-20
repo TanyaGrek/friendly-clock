@@ -16,6 +16,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
   "browserslist": {
     "production": [
       ">0.2%",
